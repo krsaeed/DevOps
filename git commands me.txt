@@ -1,0 +1,22 @@
+1-> .ignore
+
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\KSAEED\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contr... 
+   2 git remote -v
+   3 git add .
+   4 git commit -m "Created ignore file"
+   5 git log
+   6 touch Login.hhml signup.html login.php Devops.txt Jenkins.txt Add.java sample.pdf
+   7 git status
+   8 git add .
+   9 git status
+  10 git status
+  11 git add .
+  12 git commit -m "Modified"
+  13 git status
+  14 git status
+  15 git status
+  16 git status
+
+2-> Branch
